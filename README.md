@@ -2,6 +2,7 @@
 
 ## Description
 A virtual social space for musicians to meet other musicians based on needs,prefernces and a love for music!
+A web application that allows a user to create an account, sign in and create post in a community of other musicians
 
 ## Github Link
 https://github.com/glenhood/BandMates
@@ -15,10 +16,9 @@ https://drive.google.com/file/d/18-YqY9gdvaO1Ox-b7KsRV3SO_1-JlaE9/view
 ## Wireframes
 https://drive.google.com/file/d/1_KQplIdNBkCIZHjF6YrYPKehludOIoET/view
 
-## Usage
+## Technologies/Resources used 
 
-A web application that allows a user to create an account, sign in and create post in a community of other musicians
-This project was created and deployed using JavaScript, node.js, HTML, CSS, React, MongoDB,and Heroku.
+This project was created and deployed using JavaScript, node.js, HTML, CSS, React, MongoDB,and Heroku,Graphql,Semantic ui,react strap,bootstrap,apollo server,express.js,mongodb atlas,unsplash,balsamiq, color picker, and she codes. 
 
 
 ## License
