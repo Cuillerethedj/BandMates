@@ -13,7 +13,7 @@ https://band--mates.herokuapp.com
 https://drive.google.com/file/d/18-YqY9gdvaO1Ox-b7KsRV3SO_1-JlaE9/view
 
 ## Wireframes
-
+https://drive.google.com/file/d/1_KQplIdNBkCIZHjF6YrYPKehludOIoET/view
 
 ## Usage
 
