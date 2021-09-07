@@ -9,7 +9,8 @@ https://github.com/glenhood/BandMates
 ## Heroku Link
 https://band--mates.herokuapp.com
 
-## Screenshots
+## Screenshot/Video
+https://drive.google.com/file/d/18-YqY9gdvaO1Ox-b7KsRV3SO_1-JlaE9/view
 
 ## Wireframes
 
